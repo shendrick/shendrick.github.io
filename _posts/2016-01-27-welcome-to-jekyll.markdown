@@ -3,6 +3,11 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-01-27 21:51:55
 categories: jekyll update
+content:
+- title: "Test"
+  body: "Test Content"  
+- title: "Test"
+  body: "Test Content"  
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
